@@ -1,0 +1,16 @@
+{
+  "name": "call-bot",
+  "version": "1.0.0",
+  "description": "Use it bot in telegram @user_call_bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Crinax",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "lodash": "^4.17.21",
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
